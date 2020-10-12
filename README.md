@@ -31,10 +31,6 @@
 - 🌱 Learning more about and studying: **NodeJS, React, Flutter and UI/UX Design**.
 - 💙 Interests: games 👾, gadgets 📱 and animes👹.
 
-### Spotify Playing🎧
-
-[![Spotify](https://novatorem.vinicius-r-s.vercel.app/api/spotify)](https://open.spotify.com/user/viniciusrocha-br)
-
 ### Languages and Tools
 
 <br/>
