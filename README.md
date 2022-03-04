@@ -16,7 +16,7 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-#### Mobile
+#### 📱 &nbsp;Mobile
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
@@ -28,7 +28,7 @@
 <details>
   <summary>Click Here to See More ⬇️</summary>
 
-#### Front-end
+#### 🖥️ &nbsp;Front-end
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
@@ -69,7 +69,7 @@
 
 </details>
 
-#### ⌨️&nbsp;My Setup
+#### ⌨️ &nbsp;My Setup
 
 ![AMD Ryzen 5700](https://img.shields.io/badge/AMD_Ryzen_5700-B72D23?style=for-the-badge&logo=amd&logoColor=white)
 ![NVIDIA RTX 3070](https://img.shields.io/badge/NVIDIA_RTX_3070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
