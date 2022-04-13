@@ -27,8 +27,8 @@
 
 ---
 
-<!-- <details>
-  <summary>Click Here to See More ⬇️</summary> -->
+<details>
+  <summary>More Techs ⬇️</summary>
 
 #### 🖥️ &nbsp;Front-end
 
@@ -54,7 +54,7 @@
 
 ---
 
-<!-- </details> -->
+</details>
 
 #### ⌨️ &nbsp;My Setup
 
