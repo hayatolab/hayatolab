@@ -1,6 +1,6 @@
 <!-- My Banner -->
 <img align="right" height="590em" src="https://gist.githubusercontent.com/hayato-eth/4838b230a8e201558e49ed57936ebda7/raw/d7a1efe2776b664b559e4f3da81eac16775c6180/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vinicius Rocha</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="32px">, I'm Vinicius Rocha</h1>
 
 - 🔥 iOS Developer & UX/UI Designer focused on learning and career growth
 
