@@ -1,5 +1,5 @@
 <!-- My Banner -->
-<img align="right" height="590em" src="https://gist.githubusercontent.com/hayato-eth/4838b230a8e201558e49ed57936ebda7/raw/d7a1efe2776b664b559e4f3da81eac16775c6180/githubcard.svg"/>
+<!-- <img align="right" height="590em" src="https://gist.githubusercontent.com/hayato-eth/4838b230a8e201558e49ed57936ebda7/raw/d7a1efe2776b664b559e4f3da81eac16775c6180/githubcard.svg"/> -->
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="32px">, I'm Vinicius Rocha</h1>
 
 - 🔥 iOS Developer & UX/UI Designer focused on learning and career growth
@@ -8,27 +8,13 @@
 
 - ⚡ Fun fact **I Love OST 😜**
 
-- 📫 How to reach me [solo.to/hayato.eth](https://solo.to/hayato.eth)
+- 📫 How to reach me [bento.me/hayatojpg](https://bento.me/hayatojpg)
 
-- 📝 Checkout My [Resume](/assets/ios_developer_vinicius_resume.pdf).
+- 📝 Checkout My [Resume](/assets/vinicius_resume.pdf).
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
-
-#### 📱 &nbsp;Mobile
-
-![Swift](https://img.shields.io/badge/swift-202024?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
-![React Native](https://img.shields.io/badge/react--native-202024?style=for-the-badge&logo=react&logoColor=white)&nbsp;
-![Expo](https://img.shields.io/badge/expo-202024?style=for-the-badge&logo=expo&logoColor=white)&nbsp;
-![Realm](https://img.shields.io/badge/realm-202024?style=for-the-badge&logo=realm&logoColor=white)&nbsp;
-![SQLite](https://img.shields.io/badge/sqlite-202024?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
-![Cocoapods](https://img.shields.io/badge/cocoapods-202024?style=for-the-badge&logo=cocoapods&logoColor=white)&nbsp;
-
----
-
-<details>
-  <summary>More Techs ⬇️</summary>
 
 #### 🖥️ &nbsp;Front-end
 
@@ -52,19 +38,18 @@
 ![ESLint](https://img.shields.io/badge/eslint-202024?style=for-the-badge&logo=eslint&logoColor=white)&nbsp;
 ![Prettier](https://img.shields.io/badge/prettier-202024?style=for-the-badge&logo=prettier&logoColor=white)&nbsp;
 
----
+#### 📱 &nbsp;Mobile
+
+![Swift](https://img.shields.io/badge/swift-202024?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
+![React Native](https://img.shields.io/badge/react--native-202024?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+![Expo](https://img.shields.io/badge/expo-202024?style=for-the-badge&logo=expo&logoColor=white)&nbsp;
+![Realm](https://img.shields.io/badge/realm-202024?style=for-the-badge&logo=realm&logoColor=white)&nbsp;
+![SQLite](https://img.shields.io/badge/sqlite-202024?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
+![Cocoapods](https://img.shields.io/badge/cocoapods-202024?style=for-the-badge&logo=cocoapods&logoColor=white)&nbsp;
 
 </details>
 
-#### ⌨️ &nbsp;My Setup
-
-![AMD Ryzen 5700](https://img.shields.io/badge/AMD_Ryzen_5700-202024?style=for-the-badge&logo=amd&logoColor=white)&nbsp;
-![NVIDIA RTX 3070](https://img.shields.io/badge/NVIDIA_RTX_3070-202024?style=for-the-badge&logo=nvidia&logoColor=white)&nbsp;
-![Macbook Pro M1](https://img.shields.io/badge/Macbook%20Pro%20M1-202024?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
-![Zorin OS](https://img.shields.io/badge/Zorin%20OS-202024?style=for-the-badge&logo=zorin&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/Windows_11-202024?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
-
-<br><br>
+<br>
 
 ## 🌎 &nbsp;Find me around web
 
