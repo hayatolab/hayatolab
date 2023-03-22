@@ -1,10 +1,10 @@
 <!-- My Banner -->
-<!-- <img align="right" height="590em" src="https://gist.githubusercontent.com/hayato-eth/4838b230a8e201558e49ed57936ebda7/raw/d7a1efe2776b664b559e4f3da81eac16775c6180/githubcard.svg"/> -->
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="32px">, I'm Vinicius Rocha</h1>
+<img align="right" height="590em" src="https://gist.githubusercontent.com/hayatojpg/4838b230a8e201558e49ed57936ebda7/raw/86836c9df9b50f7744caf8322dcd901b07471cba/githubcard.svg"/>
+<h1 align="left">Hi <img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" height="32px">, I'm Vinicius Rocha</h1>
 
-- 🔥 iOS Developer & UX/UI Designer focused on learning and career growth
+- 🔥 Developer & UI Engineer focused on learning and career growth
 
-- 🌱 Learning more about and studying: **Swift, SwiftUI, React Native and UX/UI Design**.
+- 🌱 Learning more about and studying: **Microfrontend, Design System, Swift, SwiftUI and UX/UI Design**.
 
 - ⚡ Fun fact **I Love OST 😜**
 
@@ -29,7 +29,10 @@
 ![NextJS](https://img.shields.io/badge/next.js-202024?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 ![Svelte](https://img.shields.io/badge/Svelte-202024?style=for-the-badge&logo=svelte&logoColor=white)&nbsp;
 ![Chakra UI](https://img.shields.io/badge/Chakra--UI-202024?style=for-the-badge&logo=chakra-ui&logoColor=white)&nbsp;
+![HeadlessUI](https://img.shields.io/badge/headless--ui-202024?style=for-the-badge&logo=headless-ui&logoColor=white)&nbsp;
 ![Styled Components](https://img.shields.io/badge/styled--components-202024?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/tailwind--css-202024?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![Web Components](https://img.shields.io/badge/web--components-202024?style=for-the-badge&logo=webcomponents.org&logoColor=white)&nbsp;
 <br>
 
 ![Jest](https://img.shields.io/badge/-jest-202024?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
@@ -37,6 +40,9 @@
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-202024?style=for-the-badge&logo=testing-library&logoColor=white)
 ![ESLint](https://img.shields.io/badge/eslint-202024?style=for-the-badge&logo=eslint&logoColor=white)&nbsp;
 ![Prettier](https://img.shields.io/badge/prettier-202024?style=for-the-badge&logo=prettier&logoColor=white)&nbsp;
+![Storybook](https://img.shields.io/badge/storybook-202024?style=for-the-badge&logo=storybook&logoColor=white)&nbsp;
+![Turbo](https://img.shields.io/badge/turborepo-202024?style=for-the-badge&logo=turborepo&logoColor=white)&nbsp;
+![Lerna](https://img.shields.io/badge/lerna-202024?style=for-the-badge&logo=lerna&logoColor=white)&nbsp;
 
 #### 📱 &nbsp;Mobile
 
@@ -54,19 +60,15 @@
 ## 🌎 &nbsp;Find me around web
 
 <p align="left">
-<a href="https://www.behance.net/hayato-eth
+<a href="https://www.behance.net/hayatojpg
 " target="_blank">
   <img align="center" src="https://img.shields.io/badge/Behance-202024?style=for-the-badge&logo=behance" alt="behance"/>
 </a>
-<a href="https://dribbble.com/hayato-eth" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Dribbble-202024?style=for-the-badge&logo=dribbble&logoColor=white" alt="dribbble"/>  
+<a href="https://dribbble.com/hayatojpg" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Dribbble-202024?style=for-the-badge&logo=dribbble&logoColor=white" alt="dribbble"/>
 </a>
-
-<a href="https://linkedin.com/in/hayato-eth" target="_blank">
+<a href="https://linkedin.com/in/hayatojpg" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Linkedin-202024?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-</a>
-<a href="https://twitter.com/hayato_eth" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/twitter-202024?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>  
 </a>
 
 </p>
