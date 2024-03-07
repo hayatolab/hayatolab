@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **I love sushi 🍣 and spider-man 🕸️**
 
-- 📫 How to reach me [bento.me/hayatojpg](https://bento.me/hayatojpg)
+- 📫 How to reach me [bento.me/hayatoinkz](https://bento.me/hayatoinkz)
 
 - 📝 Checkout My [Resume](/assets/vinicius_resume.pdf).
 
@@ -84,13 +84,13 @@
 ## 🌎 &nbsp;Find me around web
 
 <p align="left">
-<a href="https://www.behance.net/hayatojpg" target="_blank">
+<a href="https://www.behance.net/hayatoinkz" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="behance"/>
 </a>
-<a href="https://dribbble.com/hayatojpg" target="_blank">
+<a href="https://dribbble.com/hayatoinkz" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="dribbble"/>
 </a>
-<a href="https://linkedin.com/in/hayatojpg" target="_blank">
+<a href="https://linkedin.com/in/hayatoinkz" target="_blank">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 
