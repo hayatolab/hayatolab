@@ -1,5 +1,5 @@
 <!-- My Banner -->
-<img align="right" height="590em" src="https://gist.githubusercontent.com/hayatojpg/4838b230a8e201558e49ed57936ebda7/raw/86836c9df9b50f7744caf8322dcd901b07471cba/githubcard.svg"/>
+<img align="right" height="590em" src="https://gist.githubusercontent.com/hayatoinkz/4838b230a8e201558e49ed57936ebda7/raw/86836c9df9b50f7744caf8322dcd901b07471cba/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" height="32px">, I'm Vinicius Rocha</h1>
 
 - 🔥 Developer focused on learning and open source
