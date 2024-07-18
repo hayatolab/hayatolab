@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I love sushi 🍣 and spider-man 🕸️**
 
-- 📫 How to reach me [bento.me/hayatoinkz](https://bento.me/hayatoinkz)
+- 📫 How to reach me [hayato.me](https://hayato.me)
 
 - 📝 Checkout My [Resume](https://read.cv/hayatoinkz).
 
